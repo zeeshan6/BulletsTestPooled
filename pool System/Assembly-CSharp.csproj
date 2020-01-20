@@ -76,6 +76,7 @@
      <Compile Include="Assets\BulletsDestroyScript.cs" />
      <Compile Include="Assets\BulletsDirectionScript.cs" />
      <Compile Include="Assets\BulletsFire.cs" />
+     <Compile Include="Assets\FireEnemies.cs" />
      <Compile Include="Assets\NewObjPooled.cs" />
      <None Include="Assets\2DShooterWeaponSystem\Documentation\README.txt" />
  <Reference Include="Unity.Timeline.Editor">

@@ -9,6 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FireEnemies.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/2DShooterWeaponSystem/Scripts/DemoRelated/DemoRandomSteamEmitter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NewObjPooled.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/BulletsDestroyScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -23,9 +24,10 @@
         <option value="$PROJECT_DIR$/Assets/BulletsDestroyScript.cs" />
         <option value="$PROJECT_DIR$/Assets/BulletsDeflectionScript.cs" />
         <option value="$PROJECT_DIR$/Assets/BulletsDirectionScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/NewObjPooled.cs" />
         <option value="$PROJECT_DIR$/Assets/2DShooterWeaponSystem/Scripts/DemoRelated/DemoRandomSteamEmitter.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewObjPooled.cs" />
         <option value="$PROJECT_DIR$/Assets/BulletsFire.cs" />
+        <option value="$PROJECT_DIR$/Assets/FireEnemies.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +79,7 @@
       <workItem from="1579444475643" duration="9341000" />
       <workItem from="1579463362761" duration="1374000" />
       <workItem from="1579525383875" duration="3080000" />
+      <workItem from="1579530509804" duration="3615000" />
     </task>
     <servers />
   </component>

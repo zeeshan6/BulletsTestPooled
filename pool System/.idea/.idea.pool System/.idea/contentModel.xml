@@ -40,6 +40,7 @@
         <e p="BulletsDestroyScript.cs" t="Include" />
         <e p="BulletsDirectionScript.cs" t="Include" />
         <e p="BulletsFire.cs" t="Include" />
+        <e p="FireEnemies.cs" t="Include" />
         <e p="NewObjPooled.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
