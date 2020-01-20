@@ -1,13 +1,44 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\zeesh\.Rider2019.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\zeesh\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_pool System.-1098955311.00" t="ExcludeRecursive" />
     <e p="H:\Unity Projects\pool System" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="BulletsDeflectionScript.cs" t="Include" />
+        <e p="2DShooterWeaponSystem" t="Include">
+          <e p="Documentation" t="Include">
+            <e p="README.txt" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="WeaponSystemEditor.cs" t="Include" />
+            <e p="WeaponSystemEditorList.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Bullet.cs" t="Include" />
+            <e p="DemoRelated" t="Include">
+              <e p="AlienHullHit.cs" t="Include" />
+              <e p="CameraLerpToTransform.cs" t="Include" />
+              <e p="DemoFollowScript.cs" t="Include" />
+              <e p="DemoRandomPositionMover.cs" t="Include" />
+              <e p="DemoRandomSteamEmitter.cs" t="Include" />
+              <e p="DemoSceneManager.cs" t="Include" />
+              <e p="DemoTurretHealth.cs" t="Include" />
+              <e p="DemoTurretScene.cs" t="Include" />
+              <e p="DemoWeaponConfigSceneManager.cs" t="Include" />
+              <e p="RotationScript.cs" t="Include" />
+              <e p="SetRendererSortingLayer.cs" t="Include" />
+            </e>
+            <e p="ObjectPoolManager.cs" t="Include" />
+            <e p="ParticleSystemAutoDestruct.cs" t="Include" />
+            <e p="PlayerMovement.cs" t="Include" />
+            <e p="WeaponSystem.cs" t="Include" />
+            <e p="WeaponSystemConfiguration.cs" t="Include" />
+          </e>
+        </e>
         <e p="BulletsDestroyScript.cs" t="Include" />
+        <e p="BulletsDirectionScript.cs" t="Include" />
         <e p="BulletsFire.cs" t="Include" />
         <e p="NewObjPooled.cs" t="Include" />
       </e>

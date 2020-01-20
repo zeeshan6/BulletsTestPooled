@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BulletsDeflectionScript : MonoBehaviour
-{
+public class BulletsDirectionScript : MonoBehaviour
+{ 
     [SerializeField]
-    private float bulletSpeed = 5f;
+    [Range(5f,50f)]
+    private float bulletSpeed = 30f;
 
     private void Update()
     {

@@ -9,20 +9,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/BulletsFire.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/BulletsDeflectionScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/BulletsDestroyScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2DShooterWeaponSystem/Scripts/DemoRelated/DemoRandomSteamEmitter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NewObjPooled.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BulletsDestroyScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BulletsDirectionScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BulletsFire.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/BulltsFire.cs" />
         <option value="$PROJECT_DIR$/Assets/BulletsScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/BulletsDeflectionScript.cs" />
         <option value="$PROJECT_DIR$/Assets/BulletsDestroyScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/BulletsFire.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletsDeflectionScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletsDirectionScript.cs" />
         <option value="$PROJECT_DIR$/Assets/NewObjPooled.cs" />
+        <option value="$PROJECT_DIR$/Assets/2DShooterWeaponSystem/Scripts/DemoRelated/DemoRandomSteamEmitter.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletsFire.cs" />
       </list>
     </option>
   </component>
@@ -73,6 +76,7 @@
       <updated>1579444439059</updated>
       <workItem from="1579444475643" duration="9341000" />
       <workItem from="1579463362761" duration="1374000" />
+      <workItem from="1579525383875" duration="3080000" />
     </task>
     <servers />
   </component>

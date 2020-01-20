@@ -11,7 +11,8 @@ public class NewObjPooled : MonoBehaviour
     private GameObject pooledObj;
     
     [SerializeField]
-    private int pooledAmount = 100;
+    [Range(100f,1000f)]
+    private int fireAmount = 100;
 
     [SerializeField] 
     private bool willGrow = true;
@@ -24,7 +25,7 @@ public class NewObjPooled : MonoBehaviour
     private void Start()
     {
         _pooledObjs = new List<GameObject>();
-        for (var i = 0; i < pooledAmount; i++)
+        for (var i = 0; i < fireAmount; i++)
         {
             var obj = Instantiate(pooledObj);
             obj.SetActive(false);
